@@ -1,0 +1,22 @@
+2018-11-11 09:46:23,817 - root - INFO -train_data.shape: (20631, 28)
+2018-11-11 09:46:23,818 - root - INFO -train_feature_slice.shape: (17408, 32, 25)
+2018-11-11 09:46:23,819 - root - INFO -train_label_slice.shape: (17408, 1)
+2018-11-11 09:46:24,107 - root - INFO -test_data.shape: (13096, 30)
+2018-11-11 09:46:24,108 - root - INFO -test_feature_slice.shape: (96, 32, 25)
+2018-11-11 09:46:24,109 - root - INFO -test_label_slice.shape: (96, 1)
+2018-11-11 09:49:03,029 - root - INFO -Model saved as vanilla-lstm-cmapss-weights_v0.h5
+2018-11-11 09:49:03,421 - root - INFO -
+Efficiency: 37.36270070075989%
+2018-11-11 09:49:05,138 - matplotlib.font_manager - DEBUG -findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('C:\\ProgramData\\Anaconda3\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000
+2018-11-11 09:49:05,318 - matplotlib.font_manager - DEBUG -findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('C:\\ProgramData\\Anaconda3\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000
+2018-11-11 10:20:12,757 - root - INFO -train_data.shape: (20631, 28)
+2018-11-11 10:20:12,759 - root - INFO -train_feature_slice.shape: (17408, 32, 25)
+2018-11-11 10:20:12,760 - root - INFO -train_label_slice.shape: (17408, 1)
+2018-11-11 10:20:13,046 - root - INFO -test_data.shape: (13096, 30)
+2018-11-11 10:20:13,047 - root - INFO -test_feature_slice.shape: (96, 32, 25)
+2018-11-11 10:20:13,048 - root - INFO -test_label_slice.shape: (96, 1)
+2018-11-11 10:22:54,240 - root - INFO -Model saved as vanilla-lstm-cmapss-weights_v0.h5
+2018-11-11 10:22:54,623 - root - INFO -
+Efficiency: -0.6746888160705566%
+2018-11-11 10:25:53,247 - matplotlib.font_manager - DEBUG -findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('C:\\ProgramData\\Anaconda3\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000
+2018-11-11 10:25:53,410 - matplotlib.font_manager - DEBUG -findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('C:\\ProgramData\\Anaconda3\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000
